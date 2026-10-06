@@ -1,0 +1,3 @@
+﻿unit,word,pos,meaning,example,exampleZh,tip,cloze,answer
+自定义单元,tree,n.,树,A tree grows in our garden.,一棵树长在我们的花园里。,复数 trees,There are two ____ in the garden. (tree),trees
+自定义单元,book,n.,书,I read a book every day.,我每天读一本书。,复数 books,I have three ____. (book),books
